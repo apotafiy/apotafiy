@@ -5,7 +5,7 @@
 - 🌱 I'm currently leanring React.js, Express.js, Android Studio, and Relational Databases
 - ⚡ Fun fact: I'm currently and Officer in the University of Washington Tacoma Huscii Coding Club and the former Vice President of my high schools mariachi band
 
-## Contact Me
+## 🔔 Contact Me
 - https://www.linkedin.com/in/apotafiy/
 
 
