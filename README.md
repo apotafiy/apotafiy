@@ -1,10 +1,21 @@
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📖 About Me
+- 🖥 Full-stack software developer
+- 🎓 Studying Computer Science at the University of Washington, class of 2022
+- 🌐 You can access all my projects here on Github
+- 🌱 I'm currently leanring React.js, Express.js, Android Studio, and Relational Databases
+- ⚡ Fun fact: I'm currently and Officer in the University of Washington Tacoma Huscii Coding Club and the former Vice President of my high schools mariachi band
+
+
+
+
+
+<!--
+
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆ashington, 𝚌𝚕𝚊𝚜𝚜 of 2022
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 - 🌱 I’m currently learning React.js, Express.js, Android Mobile Apps, and Relational Databases
 - ⚡ Fun fact: I'm currently an Officer in the University of Washington Tacoma Huscii Codign Club and the former Vice President of my high schools mariachi band
-<!--
 
 - 🔭 I’m currently working on ...
 
