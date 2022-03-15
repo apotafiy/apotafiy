@@ -1,9 +1,9 @@
 ## 📖 About Me
-- 🖥 Full-stack software developer
+- 🖥 Back-end software developer
 - 🎓 Studying Computer Science at the University of Washington, class of 2022
 - 🌐 You can access all my projects here on Github
-- 🌱 I'm currently leanring React.js, Express.js, Android Studio, and Relational Databases
-- ⚡ Fun fact: I'm currently and Officer in the University of Washington Tacoma Huscii Coding Club and the former Vice President of my high schools mariachi band
+- 🌱 I'm currently learning React.js, Express.js, Android Studio, and Relational Databases
+- ⚡ I'm currently the president of Huscii Coding Club in the University of Washington Tacoma
 
 ## 🔔 Contact Me
 - https://www.linkedin.com/in/apotafiy/
