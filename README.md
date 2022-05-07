@@ -1,9 +1,8 @@
 ## 📖 About Me
-- 🖥 Back-end software developer
-- 🎓 Studying Computer Science at the University of Washington, class of 2022
+- 🖥 Back-end software engineer
+- 🎓 Studyied Computer Science at the University of Washington, class of 2022
 - 🌐 You can access all my projects here on Github
-- 🌱 I'm currently learning React.js, Express.js, Android Studio, and Relational Databases
-- ⚡ I'm currently the president of Huscii Coding Club in the University of Washington Tacoma
+- ⚡ I was also the president of Huscii Coding Club in the University of Washington Tacoma
 
 ## 🔔 Contact Me
 - https://www.linkedin.com/in/apotafiy/
