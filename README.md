@@ -1,6 +1,6 @@
 ## 📖 About Me
-- 🖥 Back-end software engineer
-- 🎓 Studyied Computer Science at the University of Washington, class of 2022
+- 🖥 Software Engineer
+- 🎓 Studied Computer Science at the University of Washington Tacoma, class of 2022
 - 🌐 You can access all my projects here on Github
 - ⚡ I was also the president of Huscii Coding Club in the University of Washington Tacoma
 
